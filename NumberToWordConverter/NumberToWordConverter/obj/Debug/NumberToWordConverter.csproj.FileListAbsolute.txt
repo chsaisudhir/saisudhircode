@@ -1,0 +1,15 @@
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\bin\Debug\NumberToWordConverter.exe.config
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\bin\Debug\NumberToWordConverter.exe
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\bin\Debug\NumberToWordConverter.pdb
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.csprojAssemblyReference.cache
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\Converter.g.cs
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\App.g.cs
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter_MarkupCompile.cache
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter_MarkupCompile.lref
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\Converter.baml
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.g.resources
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.Properties.Resources.resources
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.csproj.GenerateResource.cache
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.csproj.CoreCompileInputs.cache
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.exe
+C:\Users\sai\Desktop\code\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.pdb
