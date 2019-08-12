@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.ComponentModel;
 
 namespace NumberToWordConverter
@@ -9,7 +9,7 @@ namespace NumberToWordConverter
         {
             get => _number;
             set
-            {
+              {
                 _number = value;
                 OnPropertyChanged("Number");
                 ConvertCommand.RaiseCanExecuteChanged(value);
@@ -39,7 +39,7 @@ namespace NumberToWordConverter
 
         private bool CanExecuteConversion(object arg)
         {
-            if (!string.IsNullOrEmpty(Number))
+            if (!string.IsNullOrEmpty(Number) && !Number.StartsWith("0"))
             {
                 if (int.TryParse(Number, out int _number) && _number < 999999999)
                 {
