@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace NumberToWordConverter
 {
@@ -39,6 +39,7 @@ namespace NumberToWordConverter
         {
             string word = "";
             bool isDone = false;
+            Number = Number.Trim();
             double dblAmt = (Convert.ToDouble(Number));
 
             if (dblAmt > 0)
@@ -62,9 +63,12 @@ namespace NumberToWordConverter
                         break;
                     case 4://thousands' range    
                     case 5:
-                    case 6:
                         pos = (numDigits % 4) + 1;
                         place = " THOUSAND";
+                        break;
+                    case 6: //Lakhs range
+                        pos = (numDigits % 6) + 1;
+                        place = " LAKH";
                         break;
                     case 7://millions' range    
                     case 8:
